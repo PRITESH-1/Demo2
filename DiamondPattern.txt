@@ -1,3 +1,5 @@
+This is fro linux
+
 import java.util.Scanner;  
 public class DiamondPattern  
 {  
