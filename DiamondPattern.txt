@@ -1,7 +1,3 @@
-This change for the access token
-Today is Saturday and 14-1-2023
-
-
 import java.util.Scanner;  
 public class DiamondPattern  
 {  
